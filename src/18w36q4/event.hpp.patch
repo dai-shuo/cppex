@@ -1,0 +1,7 @@
+6c6,9
+< #include "utility/datetime.hpp"
+---
+> 
+> namespace utility {
+>     class datetime;
+> }
